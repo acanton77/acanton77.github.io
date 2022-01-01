@@ -10,4 +10,4 @@ this _is very italis_
 - george
 [^1]: My reference.
 Here is a simple footnote[^1].
-##end##
+## end ##
