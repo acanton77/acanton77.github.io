@@ -1,6 +1,6 @@
-#this is the heading
->we have some quoted text
->and some more
+# this is the heading #
+> we have some quoted text
+> and some more
 Thhis is a para
 this **is bold**
 this _is very italis_
